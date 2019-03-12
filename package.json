@@ -1,0 +1,9 @@
+{
+  "name": "TirBrowserPlugin",
+  "dependencies": {
+    "web-ext": "^2.9.2"
+  },
+  "scripts": {
+    "start": "web-ext run"
+  }
+}
